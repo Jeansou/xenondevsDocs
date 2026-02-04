@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/basics/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/basics/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/inventory/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/inventory/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/inventory/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/items/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/items/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/items/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/localization/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/localization/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/localization/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/structure/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/structure/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/windows/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/windows/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/windows/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/guis/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/guis/normal/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/normal/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/normal/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/guis/paged/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/paged/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/paged/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/guis/scroll/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/scroll/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/scroll/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/guis/tab/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/tab/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/basics/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/basics/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/inventory/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/inventory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/inventory/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/items/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/items/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/items/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/localization/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/localization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/localization/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/structure/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/structure/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/windows/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/windows/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/windows/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/guis/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/guis/normal/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/normal/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/normal/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/guis/paged/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/paged/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/paged/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/guis/scroll/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/scroll/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/scroll/"/>
+    </url>
+    <url>
+        <loc>https://git.trees.blue/xenondevsDocs/invui/zh/guis/tab/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://git.trees.blue/xenondevsDocs/invui/zh/guis/tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://git.trees.blue/xenondevsDocs/invui/guis/tab/"/>
+    </url>
+</urlset>
